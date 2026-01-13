@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libros on Subred</title>
+    <link>http://localhost:1313/tags/libros/</link>
+    <description>Recent content in Libros on Subred</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2026 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Una filosofía para sobrevivir en el siglo XXI - Jesús G. Maestro</title>
+      <link>http://localhost:1313/posts/vscode-primerospasos/</link>
+      <pubDate>Sun, 11 Jan 2026 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vscode-primerospasos/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Alt text for the image&#34; loading=&#34;lazy&#34; src=&#34;https://i.postimg.cc/ZRFznG7K/71Dq-Iv-VZno-L-SL1500.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;descripción-del-autor&#34;&gt;Descripción del Autor&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;« NO TE PROMETO SOLUCIONES FÁCILES, SINO LA VERDAD CRUDA, LO QUE HAGAS CON ELLA ES COSA TUYA. PERO NUNCA SERÁS UN IDIOTA ».&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No todos los días es trending topic un catedrático de Teoría de la Literatura y Literatura Comparada, que ni es youtuber ni tiene redes sociales. ¿Pero quién es Jesús G. Maestro? ¿Por qué todas sus opiniones se convierten en virales?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

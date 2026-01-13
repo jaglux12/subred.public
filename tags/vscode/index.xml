@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vscode on Subred</title>
+    <link>http://localhost:1313/tags/vscode/</link>
+    <description>Recent content in Vscode on Subred</description>
+    <generator>Hugo -- 0.154.4</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 May 2023 11:30:03 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeros pasos - VSCode</title>
+      <link>http://localhost:1313/posts/vscode-primerospasos/</link>
+      <pubDate>Thu, 04 May 2023 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vscode-primerospasos/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt; es un editor de código  desarrollado por &lt;a href=&#34;https://www.microsoft.com/es-ar/&#34;&gt;Microsoft&lt;/a&gt; para sistemas operativos Windows. Con una mirada en el desarrollo de proyectos abiertos, Microsoft decidió compartir con todo el público el &lt;a href=&#34;https://github.com/microsoft/vscode&#34;&gt;código fuente del programa&lt;/a&gt;. De esta forma, se permite que VSCode esté disponible en varios sistemas operativos, como Mac y GNU/Linux.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
